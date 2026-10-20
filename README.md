@@ -21,7 +21,7 @@
 │   ├── 学习笔记README模板.md
 │   └── 学习笔记编写规范.md
 ├── vscode/                      # VS Code 相关
-│   ├── vscode提交步骤.md
+│   └── vscode提交步骤.md
 └── 其他主题/                     # 以后学什么，建什么文件夹
 ```
 
@@ -34,7 +34,7 @@
 | Git 报错速查         | github/Git报错速查.md       | ✅ 完成（7 类踩坑）          |
 | 学习笔记 README 模板   | github/学习笔记README模板.md  | ✅ 完成                 |
 | 学习笔记编写规范         | github/学习笔记编写规范.md      | ✅ 完成                 |
-| VS Code 图形提交步骤   | github/VS Code图形提交步骤.md | ✅ 完成            |
+| VS Code 图形提交步骤   | vscode/vscode提交步骤.md   | ✅ 完成            |
 | 改错了怎么救           | github/改错了怎么救.md        | ⏳ 待写                 |
 | 分支怎么用            | github/分支怎么用.md         | ⏳ 待写                 |
 | 冲突怎么解            | github/冲突怎么解.md         | ⏳ 待写                 |
